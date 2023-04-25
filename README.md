@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Prosper
 - 👀 I’m interested in ...software programming
 - 🌱 I’m currently learning ...Java, HTML
-- 💞️ I’m looking to collaborate on ...bring it on...
+- 💞️ I’m looking to collaborate on ...bring it on....
 - 📫 How to reach me ... kuttysax1@gmail.com
 
 <!---
